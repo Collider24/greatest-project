@@ -6,6 +6,13 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/ftghujokp.unity
+    guid: 4899d9f4750bf5c448e67d084bf2a8e0
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  m_configObjects: {}
+  m_configObjects:
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 37f8a4ce0ebb34e42b17e765d250cc01,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 658f145f75c572a46bb45c06595bf2dc,
+      type: 2}
